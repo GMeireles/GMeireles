@@ -1,12 +1,12 @@
 ### Hi, my name is Guilherme Meireles, 
 I'm 17 years old, I'm in high school, I'm learning programming and I can speak English, but I'm still not fluent.
 I'm an IT intern at a health cooperative called Unimed Centro-Oeste where I'm learning the basics of IT and programming.
-I'm currently learning web programming with JavaScript and PHP from a programmer that I met at Unimed, and from some online courses.
+I'm currently learning web programming with JavaScript and PHP on internet to work with these tecnologies.
 
 Olá, meu nome é Guilherme Meireles,
 tenho 17 anos de idade, estou formando meu ensino médio, estou aprendendo programação e sei falar inglês, mas ainda não sou fluente.
 Sou estagiário de TI em uma cooperativa de saúde chamada Unimed Centro-Oeste onde estou aprendendo coisas básicas de TI e programação.
-Atualmente, estou aprendendo programação web com JavaScript e PHP com um programador que conheci na Unimed, e com alguns cursos online.
+Atualmente, estou aprendendo programação web com JavaScript e PHP cna internet para trabalhar com essas tecnologias.
 
 
 <!--
